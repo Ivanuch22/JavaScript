@@ -66,4 +66,3 @@ console.log(numbers.reduce((previousValue, item)=> previousValue + item));
 
 */
 
-
