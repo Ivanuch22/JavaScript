@@ -56,8 +56,8 @@ const personalMovieDB = {
 	},
 
 };
-// personalMovieDB.start();
-// personalMovieDB.detectPersonalLevel();
+personalMovieDB.start();
+personalMovieDB.detectPersonalLevel();
 personalMovieDB.checkPrivatDB();
 personalMovieDB.whatYourFavoriteGenres();
 personalMovieDB.changePrivatDB();
